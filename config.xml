@@ -38,7 +38,7 @@ Muestra la ubicacion del dispositivo de acuerdo al GPS y en el mapa dde google m
    <plugin name ="cordova-plugin-whitelist" source="npm"/>
  
  <!--colocar icono app-->
- <icon src = "res/android/MetroUI-Google-Maps-icon.png"/>
+ <icon src = "res/android/mdpi.png"/>
  
  </widget>
    
